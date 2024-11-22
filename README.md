@@ -9,4 +9,4 @@
    data_load('data.csv').
    ```
 
-3. Open index.html in chrome
+3. Open index.html
